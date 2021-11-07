@@ -23,3 +23,12 @@ Visualisation :
 8. line chart - number of customers by date joined
 9. card - min age balance, max age balance, most customers by gender.
 10. shape for the dash-board title : customer analysis - bank.
+
+sales and inventory analysis :
+   This  project is for sales and inventory analaysis for fruits dataset consists of various tables, various excel sheets that are aimed to be customer information, product information and sales information of a supermarket in a particular day.
+
+Cleaning the data : 
+-
+1. merge the sales table fk(forigen key)_customers with customer table pk(primary key)_customer this would give the information of customer into the sales table. select (county,gender,birthdate,name)
+
+2. merge the sales table fk(forigen key)_Product with product table pk(primary key)_product this would give the information of customer into the sales table. select (productname,productcatageory)
