@@ -24,7 +24,7 @@ Visualisation :
 9. card - min age balance, max age balance, most customers by gender.
 10. shape for the dash-board title : customer analysis - bank.
 
-#sales-and-inventory-analysis
+# sales-and-inventory-analysis
 
    This  project is for sales and inventory analaysis for fruits dataset consists of various tables, various excel sheets that are aimed to be customer information, product information and sales information of a supermarket in a particular day.
 
